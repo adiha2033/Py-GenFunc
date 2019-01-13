@@ -9,7 +9,7 @@ from email.mime.text import MIMEText
 The Generic Functions and Classes for System Linux Team
 
 @Author: Adi Haim, System Linux Administrator
-@Email: adihaim2@pelephoe.co.il
+@Email: adi.shimon.haim@gmail.com
 """
 
 class LOG(object):
