@@ -14,7 +14,7 @@ The Generic Functions and Classes for System Linux Team
 
 class LOG(object):
     """
-    Buidl and Create a Log and Logger for your Application
+    Build and Create a Log and Logger for your Application
 
     """
     def __init__(self, appname, logpath):
